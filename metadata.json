@@ -1,0 +1,7 @@
+{
+  "name": "Android App Store",
+  "description": "Android App Store with direct download, package installer simulation, updates system, and application management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
